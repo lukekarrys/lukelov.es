@@ -5,7 +5,7 @@ date:   2013-07-21 13:03:56
 categories: talks
 ---
 
-[__Slides here.__](https://speakerdeck.com/lukekarrys/how-to-get-your-dream-job-in-5000-words-or-fewer-and-live-in-the-woods-and-work-on-the-internet)
+[__Slides here.__](https://speakerdeck.com/lukekarrys/how-to-get-your-dream-job-in-5000-words-or-fewer-and-live-in-the-woods-and-work-on-the-internet) [__Video here.__](http://vimeo.com/70900013)
 
 I'm Luke.
 
