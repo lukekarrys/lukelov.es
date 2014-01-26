@@ -131,6 +131,10 @@ ul.posts span {
 /*
 /*****************************************************************************/
 
+.post iframe, .post img {
+  max-width: 100%;
+}
+
 /* standard */
 .post pre {
   border: 1px solid #ddd;
