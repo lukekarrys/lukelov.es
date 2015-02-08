@@ -4,6 +4,9 @@
   "bugs": {
     "url": "https://github.com/lukekarrys/lukelov.es/issues"
   },
+  "devDependencies": {
+    "git-directory-deploy": "^1.0.0"
+  },
   "homepage": "http://lukelov.es",
   "private": true,
   "repository": {
@@ -12,6 +15,6 @@
   },
   "scripts": {
     "build": "jekyll build",
-    "deploy": "git-directory-deploy.sh"
+    "deploy": "git-directory-deploy"
   }
 }
