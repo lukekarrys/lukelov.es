@@ -1,0 +1,17 @@
+{
+  "name": "lukelov.es",
+  "version": "1.0.0",
+  "bugs": {
+    "url": "https://github.com/lukekarrys/lukelov.es/issues"
+  },
+  "homepage": "http://lukelov.es",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lukekarrys/lukelov.es.git"
+  },
+  "scripts": {
+    "build": "jekyll build",
+    "deploy": "git-directory-deploy.sh"
+  }
+}

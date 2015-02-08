@@ -1,2 +1,4 @@
 name: lukelov.es
-pygments: true
+highlighter: false
+
+exclude: ['README.md', 'package.json']
