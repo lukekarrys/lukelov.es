@@ -14,9 +14,14 @@ html
             a(href='/') lukelov.es
           a.extra(href='/') home
 
-        div
-          block content
-          != yield
+        main
+          - if (current.path[0] === 'articles')
+            h2= public.articles._data[current.source].title
+            p.meta= public.articles._data[current.source].date
+            .post
+              != yield
+          - else
+            != yield
 
         .footer
           .contact

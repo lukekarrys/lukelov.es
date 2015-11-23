@@ -1,7 +1,0 @@
-extends ../_layout
-
-block content
-  h2= public.articles._data[current.source].title
-  p.meta= public.articles._data[current.source].date
-  .post
-    != yield
