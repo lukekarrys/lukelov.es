@@ -1,10 +1,3 @@
----
-layout: post
-title:  "Things Happen"
-date:   2015-10-20T10:13:13.000Z
-categories: songs
----
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PNpSpMMfQis" frameborder="0" allowfullscreen></iframe>
 
 ![repeatone.club](https://cldup.com/NYZLdDJqLT.png)

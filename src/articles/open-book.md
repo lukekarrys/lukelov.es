@@ -1,10 +1,3 @@
----
-layout: post
-title:  "Open Book"
-date:   2015-10-20T16:22:35.000Z
-categories: songs
----
-
 So this José González video is him with a deformed human sized worm with a face. If that doesn't scare you off, you might end up watching it on repeat like I did, hypnotized by the beauty that slowly comes into focus through the melding of finger picked guitar, haunting images, and lyrics on overcoming loss.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8jA9xta0V58" frameborder="0" allowfullscreen></iframe>

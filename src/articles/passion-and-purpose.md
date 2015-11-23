@@ -1,10 +1,3 @@
----
-layout: post
-title:  "How To Get Your Dream Job in 5000 Words or Fewer and Live in the Woods and Work on The Internet"
-date:   2013-07-21 13:03:56
-categories: talks
----
-
 <iframe src="http://player.vimeo.com/video/70900013" width="500" height="281" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen=""> </iframe>
 [__Video on Vimeo.__](http://vimeo.com/70900013)
 

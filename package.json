@@ -1,20 +1,36 @@
 {
   "name": "lukelov.es",
+  "description": "My random blog site.",
   "version": "1.0.0",
   "bugs": {
     "url": "https://github.com/lukekarrys/lukelov.es/issues"
   },
   "devDependencies": {
-    "git-directory-deploy": "^1.0.0"
+    "git-directory-deploy": "^1.3.0",
+    "harp": "^0.20.1",
+    "precommit-hook": "^3.0.0"
+  },
+  "engines": {
+    "node": "^5.1.0",
+    "npm": "^3.3.12"
   },
   "homepage": "http://lukelov.es",
+  "main": "src/index.jade",
+  "pre-commit": [
+    "validate"
+  ],
   "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/lukekarrys/lukelov.es.git"
   },
   "scripts": {
-    "build": "jekyll build",
-    "deploy": "git-directory-deploy"
+    "build": "harp compile src/ _site/",
+    "codeship-setup": "npm run npm-version && npm install && npm run build",
+    "codeship-test": "npm run validate",
+    "deploy": "git-directory-deploy --directory _site --username lukekarrys --email lukekarrys@gmail.com --repo git@github.com:lukekarrys/lukelov.es.git --message='--skip-ci'",
+    "npm-version": "npm install -g npm@`cat package.json | jq -r '.engines.npm'`",
+    "start": "harp server src/ --port 3000",
+    "validate": "npm ls"
   }
 }

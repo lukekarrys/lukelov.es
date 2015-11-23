@@ -1,4 +1,0 @@
-name: lukelov.es
-highlighter: false
-
-exclude: ['README.md', 'package.json', 'node_modules']

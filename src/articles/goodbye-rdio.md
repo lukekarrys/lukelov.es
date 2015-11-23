@@ -1,10 +1,3 @@
----
-layout: post
-title:  "Goodbye Rdio"
-date:   2015-11-18T16:24:52.000Z
-categories: songs
----
-
 [Rdio is shutting down](http://www.theverge.com/2015/11/17/9750890/rdio-shutdown-pandora) and I will miss it tremendously.
 
 I know other streaming music services existed before it, but it was the first one that I used. And I started using it at a time when a lot of friends and coworkers were also using it.
