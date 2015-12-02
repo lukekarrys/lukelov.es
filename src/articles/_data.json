@@ -1,22 +1,27 @@
 {
-    "goodbye-rdio": {
-        "title": "Goodbye Rdio",
-        "date": "2015-11-18T16:24:52.000Z",
-        "categories": []
-    },
-    "open-book": {
-        "title": "Open Book",
-        "date": "2015-10-20T16:22:35.000Z",
-        "categories": ["songs"]
-    },
-    "things-happen": {
-        "title": "Things Happen",
-        "date": "2015-10-20T10:13:13.000Z",
-        "categories": ["songs"]
-    },
-    "passion-and-purpose": {
-        "title": "How To Get Your Dream Job in 5000 Words or Fewer and Live in the Woods and Work on The Internet",
-        "date": "2013-07-21T13:03:56.000Z",
-        "categories": ["talks"]
-    }
+  "wilco-devices": {
+    "title": "Devices I've Named After Wilco (or Wilco related things)",
+    "date": "2015-12-01T18:09:35.000Z",
+    "categories": ["wilco", "devices", "internet of wilco"]
+  },
+  "goodbye-rdio": {
+    "title": "Goodbye Rdio",
+    "date": "2015-11-18T16:24:52.000Z",
+    "categories": []
+  },
+  "open-book": {
+    "title": "Open Book",
+    "date": "2015-10-20T16:22:35.000Z",
+    "categories": ["songs"]
+  },
+  "things-happen": {
+    "title": "Things Happen",
+    "date": "2015-10-20T10:13:13.000Z",
+    "categories": ["songs"]
+  },
+  "passion-and-purpose": {
+    "title": "How To Get Your Dream Job in 5000 Words or Fewer and Live in the Woods and Work on The Internet",
+    "date": "2013-07-21T13:03:56.000Z",
+    "categories": ["talks"]
+  }
 }
