@@ -1,3 +1,4 @@
+include ./_date.jade
 doctype html
 html
   head
@@ -17,7 +18,7 @@ html
         main
           - if (current.path[0] === 'articles')
             h2= public.articles._data[current.source].title
-            p.meta= public.articles._data[current.source].date
+            p.meta= displayDate(public.articles._data[current.source].date)
             .post
               != yield
           - else

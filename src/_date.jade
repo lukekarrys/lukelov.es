@@ -1,0 +1,5 @@
+- var pad = function (s) { return s.toString().length === 1 ? '0' + s.toString() : s.toString(); };
+- var displayDate = function(d) {
+-   d = new Date(d)
+-   return d.getFullYear() + '-' + pad(d.getMonth() + 1) + '-' + pad(d.getDate()) + ' ' + d.getHours() + ':' + pad(d.getMinutes());
+- };
