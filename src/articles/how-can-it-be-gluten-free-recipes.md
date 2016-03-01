@@ -1,5 +1,7 @@
 From America's Test Kitchen [The How Can It Be Gluten Free Cookbook](http://www.amazon.com/The-How-Gluten-Free-Cookbook/dp/1936493616) and [Volume 2](http://www.amazon.com/The-How-Gluten-Free-Cookbook-Volume/dp/1936493985):
 
+**Update: 3/1/16**: Donuts A++
+
 * Chicken Parmesan **A**
 * Blondies **A+**
 * Chocolate Chip Cookies **A+**
@@ -17,9 +19,10 @@ From America's Test Kitchen [The How Can It Be Gluten Free Cookbook](http://www.
 * Baked Macaroni and Cheese **A**
 * Dinner Rolls **B**
 * Brazilian Cheese Bread Rolls **A**
+* Donuts **A++**
 
 *Ratings are based on deliciousness.*
 
 TODO
-- Yeasted Donuts
+- ~~Yeasted Donuts~~
 - Most everything else
