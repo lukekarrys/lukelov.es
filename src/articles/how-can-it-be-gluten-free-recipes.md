@@ -1,4 +1,4 @@
-From America's Test Kitchen [The How Can It Be Gluten Free Cookbook](http://www.amazon.com/The-How-Gluten-Free-Cookbook/dp/1936493616) and [Volume 2](http://www.amazon.com/The-How-Gluten-Free-Cookbook-Volume/dp/1936493985):
+From America's Test Kitchen [The How Can It Be Gluten Free Cookbook](http://amzn.to/2aU3VvT) and [Volume 2](http://amzn.to/2anKtZ4):
 
 **Update: 3/1/16**: Donuts A++
 
