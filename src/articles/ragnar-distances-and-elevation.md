@@ -46,3 +46,5 @@
 | Chicago | 202.1 | 5552.21 | 852.97 | 609.76 |
 | Florida Keys | 196.93 | 10 | 0 | 0 |
 | Pennsylvania | 192.84 | 0 | 358.28 | 1883.11 |
+
+[Built with `ragnar-data`](https://github.com/lukekarrys/ragnar-data).
