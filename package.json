@@ -11,8 +11,7 @@
     "harp": "^0.21.0"
   },
   "engines": {
-    "node": "^6.0.0",
-    "npm": "^3.3.12"
+    "node": "^6.0.0"
   },
   "homepage": "http://lukelov.es",
   "main": "src/index.jade",
@@ -26,10 +25,9 @@
   },
   "scripts": {
     "build": "harp compile src/ _site/",
-    "codeship-setup": "npm run npm-version && npm install && npm run build",
+    "codeship-setup": "npm install && npm run build",
     "codeship-test": "npm run validate",
     "deploy": "git-directory-deploy --directory _site --username lukekarrys --email lukekarrys@gmail.com --repo git@github.com:lukekarrys/lukelov.es.git --message='--skip-ci'",
-    "npm-version": "npm install -g npm@`cat package.json | jq -r '.engines.npm'`",
     "start": "harp server src/ --port 3000",
     "validate": "npm ls"
   }
