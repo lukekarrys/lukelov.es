@@ -8,7 +8,7 @@
   "devDependencies": {
     "git-directory-deploy": "^1.5.1",
     "git-validate": "^2.2.2",
-    "harp": "^0.22.0"
+    "harp": "^0.23.0"
   },
   "engines": {
     "node": "^6.0.0"
