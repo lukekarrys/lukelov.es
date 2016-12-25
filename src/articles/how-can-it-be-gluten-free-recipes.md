@@ -20,6 +20,10 @@ From America's Test Kitchen [The How Can It Be Gluten Free Cookbook](http://amzn
 * Dinner Rolls **B**
 * Brazilian Cheese Bread Rolls **A**
 * Donuts **A++**
+* Sugar Cookies (with Cubs icing) **A+**
+* Baked Raspberry Tart **A++**
+* Sticky Pudding Toffee Cakes **A+**
+* Brioche **B**
 
 *Ratings are based on deliciousness.*
 
