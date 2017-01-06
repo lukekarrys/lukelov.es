@@ -1,4 +1,9 @@
 {
+  "nfl-playoff-picks-2017-wildcard-round": {
+    "title": "NFL Playoff Picks 2017 Wildcard Round",
+    "date": "2017-01-06T15:46:40-07:00",
+    "categories": ["nfl", "gambling"]
+  },
   "ragnar-distances-and-elevation": {
     "title": "Ragnar Distances and Elevations",
     "date": "2016-11-10T13:31:05-07:00",
@@ -14,17 +19,17 @@
     "date": "2016-02-03T16:33:42-0700"
   },
   "nfl-playoff-picks-2016-conference-championships": {
-    "title": "NFL Playoff Picks 2015 Conference Championships",
+    "title": "NFL Playoff Picks 2016 Conference Championships",
     "date": "2016-01-24T09:59:11-0700",
     "categories": ["nfl", "gambling"]
   },
   "nfl-playoff-picks-2016-divisional-round": {
-    "title": "NFL Playoff Picks 2015 Divisional Round",
+    "title": "NFL Playoff Picks 2016 Divisional Round",
     "date": "2016-01-16T14:15:54-0700",
     "categories": ["nfl", "gambling"]
   },
   "nfl-playoff-picks-2016-wildcard-round": {
-    "title": "NFL Playoff Picks 2015 Wildcard Round",
+    "title": "NFL Playoff Picks 2016 Wildcard Round",
     "date": "2016-01-09T14:26:16-0700",
     "categories": ["nfl", "gambling"]
   },
