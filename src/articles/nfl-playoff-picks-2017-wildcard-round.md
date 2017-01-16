@@ -5,3 +5,5 @@ Lines from [Vegas Insider](http://www.vegasinsider.com/nfl/matchups/matchups.cfm
 - Miami +10 over PITTSBURGH **(L)**
 - GREEN BAY -4.5 over New York **(W)**
 
+**This week: 2-2**<br/>
+**Overall: 2-2**
