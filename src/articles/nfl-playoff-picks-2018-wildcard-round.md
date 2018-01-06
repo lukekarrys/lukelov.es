@@ -3,7 +3,7 @@ Lines from [Vegas Insider](http://www.vegasinsider.com/nfl/matchups/matchups.cfm
 - KANSAS CITY -8.5 over Tennessee **()**
 - LA RAMS -5.5 over Atlanta **()**
 - JACKSONVILLE -8.5 over Buffalo **()**
-- Carolina +7 over NEW ORLEANS **()**
+- NEW ORLEANS +7 over Carolina **()**
 
 **This week: X-X**<br/>
 **Overall: X-X**
