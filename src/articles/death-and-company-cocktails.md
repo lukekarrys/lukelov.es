@@ -5,5 +5,6 @@ From Death & Co's [Modern Classic Cocktails](http://amzn.to/2aArKL8):
 * French 95 **A+**
 * Whiskey Sour **A** (I had never had one with egg in it before!)
 * Paloma **A** (Perfect summer drink)
+* Bee's Knees **B**
 
 *Ratings are based on deliciousness.*
