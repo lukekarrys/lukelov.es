@@ -15,3 +15,4 @@
 * Roadcase (001, 002, etc) <small>*(Thumb Drive 2016)*</small>
 * Pieholden <small>*(MacBook Pro 2016) (Yes, I reused this one but it's kinda perfect)*</small>
 * White Light <small>*(AirPods)*</small>
+* Hotel Arizona <small>*(SSID)*</small>
