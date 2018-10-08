@@ -16,3 +16,5 @@
 * Pieholden <small>*(MacBook Pro 2016) (Yes, I reused this one but it's kinda perfect)*</small>
 * White Light <small>*(AirPods)*</small>
 * Hotel Arizona <small>*(SSID)*</small>
+* Kicking Television <small>*(iPad Pro)*</small>
+* Kingpin <small>*(iPhone X)*</small>
