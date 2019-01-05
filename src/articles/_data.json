@@ -1,4 +1,9 @@
 {
+  "nfl-playoff-picks-2019-wildcard-round": {
+    "title": "NFL Playoff Picks 2019 Wildcard Round",
+    "date": "2019-01-05T14:20:35-07:00",
+    "categories": ["nfl", "gambling"]
+  },
   "nfl-playoff-picks-2018-divisional-round": {
     "title": "NFL Playoff Picks 2018 Divisional Round",
     "date": "2018-01-13T14:16:44-07:00",
@@ -34,8 +39,8 @@
     "date": "2016-11-10T13:31:05-07:00",
     "categories": ["ragnar"]
   },
-  "nfl-super-bowl-picks-2016": {
-    "title": "NFL Super Bowl Picks",
+  "nfl-playoff-picks-2016-super-bowl": {
+    "title": "NFL Playoff Picks 2016 Super Bowl",
     "date": "2016-02-05T15:20:16-0700",
     "categories": ["nfl", "gambling"]
   },
