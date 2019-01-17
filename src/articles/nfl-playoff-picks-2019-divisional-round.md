@@ -1,14 +1,14 @@
 Lines from [Vegas Insider](http://www.vegasinsider.com/nfl/matchups/matchups.cfm/week/19/season/2018) when published.
 
 ## Picks
-- Indianapolis +4.5 over Kansas City
-- Dallas +7 over LA RAMS
-- NEW ENGLAND -4 over LA Chargers
-- NEW ORLEANS -8 over Philadelphia
+- Indianapolis +4.5 over Kansas City **(L)**
+- Dallas +7 over LA RAMS **(L)**
+- NEW ENGLAND -4 over LA Chargers **(W)**
+- NEW ORLEANS -8 over Philadelphia **(L)**
 
 ## Other Bets
-- NEW ENGLAND and NEW ORLEANS TO WIN +101
-- Kansas City / Indianapolis over 54.5 -105
+- NEW ENGLAND and NEW ORLEANS TO WIN +101 **(W)**
+- Kansas City / Indianapolis over 54.5 -105 **(L)**
 
-**This week:**<br/>
-**Overall: 2-2**
+**This week: 2-4**<br/>
+**Playoffs: 4-7**

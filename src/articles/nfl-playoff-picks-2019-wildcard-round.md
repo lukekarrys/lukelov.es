@@ -9,5 +9,5 @@ Lines from [Vegas Insider](http://www.vegasinsider.com/nfl/matchups/matchups.cfm
 ## Other Bets
 - Indianapolis & Seattle TO WIN +330 **(L)**
 
-**This week: 2-2**<br/>
-**Overall: 2-2**
+**This week: 2-3**<br/>
+**Playoffs: 2-3**
