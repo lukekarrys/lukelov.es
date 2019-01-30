@@ -17,10 +17,11 @@ html
 
         main
           - if (current.path[0] === 'articles')
-            h2= public.articles._data[current.source].title
-            p.meta= displayDate(public.articles._data[current.source].date)
-            .post
-              != yield
+            - if (public.articles._data[current_source])
+              h2= public.articles._data[current.source].title
+              p.meta= displayDate(public.articles._data[current.source].date)
+              .post
+                != yield
           - else
             != yield
 
