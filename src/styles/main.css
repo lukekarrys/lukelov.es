@@ -205,6 +205,10 @@ ul.posts span {
   margin-right: 5px;
 }
 
+.gatsby-resp-image-wrapper {
+  margin: 0 !important;
+}
+
 /*****************************************************************************/
 /*
 /* Tables

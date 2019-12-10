@@ -7,12 +7,11 @@ tags:
   - talks
 ---
 
-<iframe src="http://player.vimeo.com/video/70900013" width="500" height="281" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen=""> </iframe>
-[__Video on Vimeo.__](http://vimeo.com/70900013)
+<iframe src="http://player.vimeo.com/video/70900013" width="500" height="281" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen=""></iframe>
 
-<script async="" class="speakerdeck-embed" data-id="3451bb40d41201308f307a4bd169509c" data-ratio="1.2994923857868" src="//speakerdeck.com/assets/embed.js"> </script>
+[**Video on Vimeo.**](http://vimeo.com/70900013)
 
-[**Slides on Speaker Deck.**](https://speakerdeck.com/lukekarrys/how-to-get-your-dream-job-in-5000-words-or-fewer-and-live-in-the-woods-and-work-on-the-internet)
+[**Slides**](https://talks.lukekarrys.com/passion-072013/slides.pdf)
 
 I'm Luke.
 

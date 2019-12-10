@@ -5,6 +5,7 @@ import SEO from "../components/seo"
 
 export default ({ pageContext }) => {
   const { posts, title, currentPage, totalPages } = pageContext
+
   return (
     <Layout>
       <SEO title={title} />
@@ -15,7 +16,7 @@ export default ({ pageContext }) => {
             <span className="date">{post.frontmatter.date}</span>
             <br />
             {post.frontmatter.externalLink ? (
-              <a href={posts.frontmatter.externalLink}>
+              <a href={post.frontmatter.externalLink}>
                 {post.frontmatter.title} →
               </a>
             ) : (

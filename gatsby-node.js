@@ -90,6 +90,7 @@ exports.createPages = async ({ graphql, actions }) => {
               title
               date(formatString: "MMMM DD, YYYY")
               tags
+              externalLink
             }
           }
         }
