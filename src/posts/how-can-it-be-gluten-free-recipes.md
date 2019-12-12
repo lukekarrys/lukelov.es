@@ -33,10 +33,10 @@ From America's Test Kitchen [The How Can It Be Gluten Free Cookbook](http://amzn
 - New York Cheesecake **A+**
 - Chocolate Crinkle Cookies **A**
 - Whole Grain Brown Sugar Cookies **A**
+- Yeasted Donuts **A**
 
 _Ratings are based on deliciousness._
 
 TODO
 
-- ~~Yeasted Donuts~~
 - Most everything else
