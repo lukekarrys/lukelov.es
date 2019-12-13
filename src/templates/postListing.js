@@ -1,10 +1,11 @@
 import React from "react"
-import { Link } from "gatsby"
+import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-export default ({ pageContext }) => {
-  const { posts, title, currentPage, totalPages } = pageContext
+export default ({ pageContext, data }) => {
+  const posts = data.allMarkdownRemark.edges.map(({ node }) => node)
+  const { title, currentPage, totalPages } = pageContext
 
   return (
     <Layout>
@@ -62,3 +63,28 @@ const Pagination = ({ currentPage, totalPages }) => {
     </div>
   )
 }
+
+export const query = graphql`
+  query($limit: Int, $skip: Int, $filter: MarkdownRemarkFilterInput) {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      limit: $limit
+      skip: $skip
+      filter: $filter
+    ) {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            date(formatString: "MMMM DD, YYYY")
+            externalLink
+            tags
+          }
+        }
+      }
+    }
+  }
+`

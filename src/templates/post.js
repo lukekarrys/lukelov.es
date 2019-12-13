@@ -1,10 +1,9 @@
 import React from "react"
-import { Link } from "gatsby"
+import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-export default ({ pageContext }) => {
-  const { post } = pageContext
+export default ({ data: { markdownRemark: post } }) => {
   return (
     <Layout>
       <SEO title={post.frontmatter.title} />
@@ -23,3 +22,16 @@ export default ({ pageContext }) => {
     </Layout>
   )
 }
+
+export const query = graphql`
+  query($slug: String) {
+    markdownRemark(fields: { slug: { eq: $slug } }) {
+      html
+      frontmatter {
+        title
+        date(formatString: "MMMM DD, YYYY - h:mm:ssa")
+        tags
+      }
+    }
+  }
+`
