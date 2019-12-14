@@ -9,7 +9,7 @@ tags:
 
 <iframe src="http://player.vimeo.com/video/70900013" width="500" height="281" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen=""></iframe>
 
-[**Video on Vimeo.**](http://vimeo.com/70900013)
+[**Video on Vimeo.**](https://vimeo.com/70900013)
 
 [**Slides**](https://talks.lukekarrys.com/passion-072013/slides.pdf)
 
