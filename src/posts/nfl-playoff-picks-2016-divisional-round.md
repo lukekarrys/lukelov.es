@@ -1,6 +1,6 @@
 ---
 title: NFL Playoff Picks 2016 Divisional Round
-date: "2016-01-16T14:15:54-0700"
+date: "2016-01-16T14:15:54"
 tags:
   - nfl
   - gambling

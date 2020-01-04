@@ -1,6 +1,6 @@
 ---
 title: NFL Playoff Picks 2018 Wildcard Round
-date: "2018-01-05T14:52:28-07:00"
+date: "2018-01-05T14:52:28"
 tags:
   - nfl
   - gambling

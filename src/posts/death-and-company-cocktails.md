@@ -1,6 +1,6 @@
 ---
 title: Rating the Cocktails Made From Death & Co's Recipes
-date: "2015-12-31T08:32:01-0700"
+date: "2015-12-31T08:32:01"
 tags:
   - cocktails
   - recipes

@@ -2,7 +2,7 @@
 title: >-
   How To Get Your Dream Job in 5000 Words or Fewer and Live in the Woods and
   Work on The Internet
-date: "2013-07-21T13:03:56-0700"
+date: "2013-07-21T13:03:56"
 tags:
   - talks
 ---

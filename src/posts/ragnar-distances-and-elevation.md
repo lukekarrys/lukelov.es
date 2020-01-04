@@ -1,6 +1,6 @@
 ---
 title: Ragnar Distances and Elevations
-date: "2016-11-10T13:31:05-07:00"
+date: "2016-11-10T13:31:05"
 tags:
   - ragnar
 ---

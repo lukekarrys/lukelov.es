@@ -1,6 +1,6 @@
 ---
 title: Open Book
-date: "2015-10-20T16:22:35-0700"
+date: "2015-10-20T16:22:35"
 tags:
   - songs
 ---

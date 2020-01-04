@@ -1,6 +1,6 @@
 ---
 title: Things Happen
-date: "2015-10-20T10:13:13-0700"
+date: "2015-10-20T10:13:13"
 tags:
   - songs
 ---

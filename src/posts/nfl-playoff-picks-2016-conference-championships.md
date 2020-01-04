@@ -1,6 +1,6 @@
 ---
 title: NFL Playoff Picks 2016 Conference Championships
-date: "2016-01-24T09:59:11-0700"
+date: "2016-01-24T09:59:11"
 tags:
   - nfl
   - gambling

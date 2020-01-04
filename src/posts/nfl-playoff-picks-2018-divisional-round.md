@@ -1,6 +1,6 @@
 ---
 title: NFL Playoff Picks 2018 Divisional Round
-date: "2018-01-13T14:16:44-07:00"
+date: "2018-01-13T14:16:44"
 tags:
   - nfl
   - gambling

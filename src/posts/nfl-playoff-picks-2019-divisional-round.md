@@ -1,6 +1,6 @@
 ---
 title: NFL Playoff Picks 2019 Divisional Round
-date: "2019-01-12T14:16:07-07:00"
+date: "2019-01-12T14:16:07"
 tags:
   - nfl
   - gambling

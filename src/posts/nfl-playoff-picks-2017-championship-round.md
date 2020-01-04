@@ -1,6 +1,6 @@
 ---
 title: NFL Playoff Picks 2017 Championship Round
-date: "2017-01-29T10:58:49-07:00"
+date: "2017-01-29T10:58:49"
 tags:
   - nfl
   - gambling

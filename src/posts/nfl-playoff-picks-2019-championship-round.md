@@ -1,6 +1,6 @@
 ---
 title: NFL Playoff Picks 2019 Championship Round
-date: "2019-01-17T12:35:49-07:00"
+date: "2019-01-17T12:35:49"
 tags:
   - nfl
   - gambling

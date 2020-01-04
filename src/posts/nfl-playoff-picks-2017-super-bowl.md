@@ -1,6 +1,6 @@
 ---
 title: NFL Playoff Picks 2017 Super Bowl
-date: "2017-02-05T20:44:57-07:00"
+date: "2017-02-05T20:44:57"
 tags:
   - nfl
   - gambling

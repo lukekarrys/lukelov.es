@@ -1,6 +1,6 @@
 ---
 title: Rating the Recipes Made From The How Can It Be Gluten Free Cookbooks
-date: "2015-12-01T19:02:03-0700"
+date: "2015-12-01T19:02:03"
 tags:
   - gluten free
   - recipes

@@ -1,6 +1,6 @@
 ---
 title: Devices I've Named After Wilco (or Wilco related things)
-date: "2015-12-01T18:09:35-0700"
+date: "2015-12-01T18:09:35"
 tags:
   - wilco
   - devices
