@@ -10,10 +10,10 @@ Lines from [Vegas Insider](http://www.vegasinsider.com/nfl/matchups/matchups.cfm
 
 ## Picks
 
-- HOUSTON -2.5 over Buffalo
-- NEW ENGLAND -4.5 over Tennessee
-- Minnesota +7.5 over NEW ORLEANS
-- Seattle -1.5 over PHILADELPHIA
+- HOUSTON -2.5 over Buffalo ✅
+- NEW ENGLAND -4.5 over Tennessee ❌
+- Minnesota +7.5 over NEW ORLEANS ✅
+- Seattle -1.5 over PHILADELPHIA ✅
 
-**This week: X-X**<br/>
-**Playoffs: X-X**
+**This week: 3-1**<br/>
+**Playoffs: 3-1**
