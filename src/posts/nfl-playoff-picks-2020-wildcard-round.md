@@ -4,6 +4,7 @@ date: 2020-01-04T13:50:28
 tags:
   - nfl
   - gambling
+  - 2019 nfl playoffs
 ---
 
 Lines from [Vegas Insider](http://www.vegasinsider.com/nfl/matchups/matchups.cfm/week/18/season/2019).
@@ -16,4 +17,4 @@ Lines from [Vegas Insider](http://www.vegasinsider.com/nfl/matchups/matchups.cfm
 - Seattle -1.5 over PHILADELPHIA ✅
 
 **This week: 3-1**<br/>
-**Playoffs: 3-1**
+**[Playoffs: 3-1](/tags/2019-nfl-playoffs)**
