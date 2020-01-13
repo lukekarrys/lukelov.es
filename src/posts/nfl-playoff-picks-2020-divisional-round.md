@@ -11,20 +11,20 @@ Lines from [Vegas Insider](http://www.vegasinsider.com/nfl/matchups/matchups.cfm
 
 ## Picks
 
-- Minnesota +7 over SAN FRANCISO
-- BALTIMORE -9.5 over Tennessee
-- KANSAS CITY -9.5 over Houston
-- GREEN BAY -4.5 over Seattle
+- Minnesota +7 over SAN FRANCISO ❌
+- BALTIMORE -9.5 over Tennessee ❌
+- KANSAS CITY -9.5 over Houston ✅
+- GREEN BAY -4.5 over Seattle ❌
 
 ## Teasers
 
-- KC (-2.5), Baltimore (-10), Seattle (+11) – +7 **+130**
+- KC (-2.5), Baltimore (-3), Seattle (+11) – +7 **+130** ❌
 
 ## Props
 
-- GREEN BAY vs Seattle - Under 46.5
-- KANSAS City vs Houston - Under 51.5
+- GREEN BAY vs Seattle - Under 46.5 ❌
+- KANSAS City vs Houston - Under 51.5 🆘
 
-**This week: X-X**<br/>
+**This week: 1-6**<br/>
 **[Last week: 3-1](/articles/nfl-playoff-picks-2020-wildcard-round)**<br/>
-**[Playoffs: 3-1](/tags/2019-playoffs)**
+**[Playoffs: 4-7](/tags/2019-playoffs)**
