@@ -12,7 +12,7 @@ Lines from [Vegas Insider](http://www.vegasinsider.com/nfl/matchups/matchups.cfm
 ## Picks
 
 - Green Bay +8 over SAN FRANCISCO
-- KANSAS CITY -7 over Tennessee
+- KANSAS CITY -7 over Tennessee ✅
 
 ## Teasers
 
@@ -20,8 +20,8 @@ Lines from [Vegas Insider](http://www.vegasinsider.com/nfl/matchups/matchups.cfm
 
 ## Props
 
-- Derrick Henry over 114.5 rushing yards (-190)
+- Derrick Henry over 114.5 rushing yards (-190) ❌
 
 **This week: X-X**<br/>
-**[Last week: 1-5](/articles/nfl-playoff-picks-2020-conference-champsionships)**<br/>
+**[Last week: 1-6](/articles/nfl-playoff-picks-2020-conference-champsionships)**<br/>
 **[Playoffs: 4-7](/tags/2019-playoffs)**
