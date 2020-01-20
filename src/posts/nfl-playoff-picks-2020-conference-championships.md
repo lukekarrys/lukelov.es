@@ -24,4 +24,4 @@ Lines from [Vegas Insider](http://www.vegasinsider.com/nfl/matchups/matchups.cfm
 
 **This week: 2-2**<br/>
 **[Last week: 1-6](/articles/nfl-playoff-picks-2020-divisional-round)**<br/>
-**[Playoffs: 6-9](/tags/2019-playoffs)**
+**[Playoffs: 6-9](/tags/2019-nfl-playoffs)**

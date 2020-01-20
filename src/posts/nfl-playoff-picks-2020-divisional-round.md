@@ -27,4 +27,4 @@ Lines from [Vegas Insider](http://www.vegasinsider.com/nfl/matchups/matchups.cfm
 
 **This week: 1-6**<br/>
 **[Last week: 3-1](/articles/nfl-playoff-picks-2020-wildcard-round)**<br/>
-**[Playoffs: 4-7](/tags/2019-playoffs)**
+**[Playoffs: 4-7](/tags/2019-nfl-playoffs)**
