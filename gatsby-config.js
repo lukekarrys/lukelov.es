@@ -48,6 +48,7 @@ module.exports = {
           `gatsby-remark-static-images`
         ]
       }
-    }
+    },
+    "gatsby-plugin-no-javascript"
   ]
 }
