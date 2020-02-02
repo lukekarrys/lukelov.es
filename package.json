@@ -40,7 +40,7 @@
   },
   "scripts": {
     "build": "gatsby build",
-    "postbuild": "rm -rf public/*.{js,js.map,json}",
+    "postbuild": "rm -rf public/*.{js,js.map,json} && rm -rf public/page-data",
     "clean": "gatsby clean",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
