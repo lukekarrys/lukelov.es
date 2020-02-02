@@ -25,6 +25,5 @@ Lines from [Vegas Insider](http://www.vegasinsider.com/nfl/matchups/matchups.cfm
 - GREEN BAY vs Seattle - Under 46.5 ❌
 - KANSAS City vs Houston - Under 51.5 🆘
 
-**This week: 1-6**<br/>
 **[Last week: 3-1](/articles/nfl-playoff-picks-2020-wildcard-round)**<br/>
 **[Playoffs: 4-7](/tags/2019-nfl-playoffs)**

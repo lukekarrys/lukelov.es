@@ -22,6 +22,5 @@ Lines from [Vegas Insider](http://www.vegasinsider.com/nfl/matchups/matchups.cfm
 
 - Derrick Henry over 114.5 rushing yards (-190) ❌
 
-**This week: 2-2**<br/>
 **[Last week: 1-6](/articles/nfl-playoff-picks-2020-divisional-round)**<br/>
 **[Playoffs: 6-9](/tags/2019-nfl-playoffs)**

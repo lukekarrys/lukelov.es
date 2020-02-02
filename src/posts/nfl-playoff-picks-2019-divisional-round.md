@@ -4,6 +4,7 @@ date: "2019-01-12T14:16:07"
 tags:
   - nfl
   - gambling
+  - 2018 nfl playoffs
 ---
 
 Lines from [Vegas Insider](http://www.vegasinsider.com/nfl/matchups/matchups.cfm/week/19/season/2018) when published.
@@ -20,5 +21,4 @@ Lines from [Vegas Insider](http://www.vegasinsider.com/nfl/matchups/matchups.cfm
 - NEW ENGLAND and NEW ORLEANS TO WIN +101 **(W)**
 - Kansas City / Indianapolis over 54.5 -105 **(L)**
 
-**This week: 2-4**<br/>
-**Playoffs: 4-7**
+**[Playoffs: 4-7](/tags/2018-nfl-playoffs)**

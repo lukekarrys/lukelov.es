@@ -4,6 +4,7 @@ date: "2019-01-05T14:20:35"
 tags:
   - nfl
   - gambling
+  - 2018 nfl playoffs
 ---
 
 Lines from [Vegas Insider](http://www.vegasinsider.com/nfl/matchups/matchups.cfm/week/18/season/2018) when published.
@@ -19,5 +20,4 @@ Lines from [Vegas Insider](http://www.vegasinsider.com/nfl/matchups/matchups.cfm
 
 - Indianapolis & Seattle TO WIN +330 **(L)**
 
-**This week: 2-3**<br/>
-**Playoffs: 2-3**
+**[Playoffs: 2-3](/tags/2018-nfl-playoffs)**
