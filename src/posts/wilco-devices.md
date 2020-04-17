@@ -27,3 +27,5 @@ tags:
 - Hotel Arizona <small>_(SSID)_</small>
 - Kicking Television <small>_(iPad Pro)_</small>
 - Kingpin <small>_(iPhone X)_</small>
+- Hummingbird <small>_(Synology)_</small>
+- Bull Black Nova <small>_(Bose Headphones)_</small>
