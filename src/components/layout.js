@@ -24,6 +24,9 @@ const Layout = ({ children }) => {
           <Link className="extra" to="/">
             home
           </Link>
+          <Link className="extra" to="/now">
+            now
+          </Link>
         </div>
         <main>{children}</main>
         <div className="footer">
