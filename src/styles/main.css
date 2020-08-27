@@ -205,6 +205,10 @@ ul.posts span {
   display: inline;
 }
 
+.tags {
+  margin-top: 20px;
+}
+
 .tags > a {
   margin-right: 5px;
 }

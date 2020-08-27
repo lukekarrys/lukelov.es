@@ -13,7 +13,8 @@ export default ({ data: { markdownRemark: post } }) => {
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
       </div>
       <div className="tags">
-        {post.frontmatter.tags.map(tag => (
+        <h3>Filed under:</h3>
+        {post.frontmatter.tags.map((tag) => (
           <Link key={tag} className="tag" to={`/tags/${tag}`}>
             {tag}
           </Link>
