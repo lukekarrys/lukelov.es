@@ -1,7 +1,9 @@
 ---
 title: "New Bike Day: Surly Bridge Club"
 date: 2020-08-27T12:48:36-07:00
-tags: [bikes]
+tags:
+  - bikes
+  - bridge club
 ---
 
 ![My new Surly Bridge Club down by the Salt River](../images/bridge-club.jpeg)
