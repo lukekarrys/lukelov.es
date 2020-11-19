@@ -1,8 +1,9 @@
 ---
-title: "Intent to Ship: Coffeeneuring 2020 Challenge"
+title: "Intent to Ship: Coffeeneuring Challenge 2020"
 date: "2020-10-26T12:58:49-07:00"
 tags:
   - coffeeneuring
+  - coffeeneuring2020
 ---
 
 If I make a plan, maybe I'll be more likely to stick to it 😆
