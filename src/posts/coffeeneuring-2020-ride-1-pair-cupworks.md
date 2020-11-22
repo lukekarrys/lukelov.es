@@ -4,6 +4,8 @@ date: "2020-11-18T17:28:00-07:00"
 tags:
   - coffeeneuring
   - coffeeneuring2020
+  - bikes
+  - cross-check
 ---
 
 - Ride #1
@@ -17,7 +19,7 @@ I had been meaning to get out on this ride all week since first I heard about [c
 
 But it was tough to get out on this first ride. I knew that I had to start before Monday to finish all 7 rides by the deadline (again, I love rules!). So I found time on a weekend morning for my favorite coffeeshop that was also the closest and easiest ride, Pair Cupworks.
 
-![Pair Cupworks sign](../images/coffeeneuring-ride-1/photo-2.jpeg)
+![Pair Cupworks sign](../images/coffeeneuring/2020/ride-1/photo-2.jpeg)
 
 ## The Ride
 
@@ -27,16 +29,16 @@ I tried to stick to the specific [Mesa #3 route](http://www.azbikeped.org/downlo
 
 I also got to check out a local restaurant doing a Bob's Burgers themed popup where I scored a few stickers.
 
-![Surly Cross-Check with bags and helmet](../images/coffeeneuring-ride-1/photo.jpeg)
+![Surly Cross-Check with bags and helmet](../images/coffeeneuring/2020/ride-1/photo.jpeg)
 
 ## The Drink
 
 A Toasted Sesame Latte which is a new limited time menu item. It was delicious. Very toasty to makeup for the chilly 72 degrees (it felt like 68).
 
-![Toasted Sesame Latte with latte art of a heart](../images/coffeeneuring-ride-1/photo-4.jpeg)
+![Toasted Sesame Latte with latte art of a heart](../images/coffeeneuring/2020/ride-1/photo-4.jpeg)
 
 ## One Good Thing
 
 I didn't bring my phone! That feels like a silly thing to proclaim as my One Good Thing, but lately I've been feeling quite pulled to my phone during most of my downtime. So I left my phone at home and brought my Kindle, iPod Nano, and  camera instead. It was a nice change of pace. I listened to some music on the ride and read a little bit on the patio and used the camera to take all these shots.
 
-![A table with a Kindle, iPod Nano, and latte](../images/coffeeneuring-ride-1/photo-5.jpeg)
+![A table with a Kindle, iPod Nano, and latte](../images/coffeeneuring/2020/ride-1/photo-5.jpeg)
