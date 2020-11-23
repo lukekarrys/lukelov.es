@@ -40,12 +40,11 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 820,
+              maxWidth: 700,
               withWebp: true,
             },
           },
           `gatsby-remark-smartypants`,
-          `gatsby-remark-static-images`,
           `gatsby-remark-a11y-emoji`,
         ],
       },
