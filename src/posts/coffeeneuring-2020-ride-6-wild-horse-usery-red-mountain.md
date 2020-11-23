@@ -1,6 +1,6 @@
 ---
 title: "Coffeeneuring Challenge 2020 #6: Red Mountain Park via Wild Horse Trail"
-date: "2020-11-22T19:22:50-07:00"
+date: "2020-11-21"
 tags:
   - coffeeneuring
   - coffeeneuring2020

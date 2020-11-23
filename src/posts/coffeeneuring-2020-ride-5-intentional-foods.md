@@ -1,6 +1,6 @@
 ---
 title: "Coffeeneuring Challenge 2020 #5: Intentional Foods"
-date: "2020-11-22T19:18:50-07:00"
+date: "2020-11-19"
 tags:
   - coffeeneuring
   - coffeeneuring2020

@@ -1,6 +1,6 @@
 ---
 title: "Coffeeneuring Challenge 2020 #1: Pair Cupworks"
-date: "2020-11-18T17:28:00-07:00"
+date: "2020-10-31"
 tags:
   - coffeeneuring
   - coffeeneuring2020

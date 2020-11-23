@@ -1,6 +1,6 @@
 ---
 title: "Coffeeneuring Challenge 2020 #3: Starbucks Family Picnic"
-date: "2020-11-22T12:14:00-07:00"
+date: "2020-11-07"
 tags:
   - coffeeneuring
   - coffeeneuring2020

@@ -1,6 +1,6 @@
 ---
 title: "Coffeeneuring Challenge 2020 #2: Mythical Coffee"
-date: "2020-11-20T20:12:00-07:00"
+date: "2020-11-03"
 tags:
   - coffeeneuring
   - coffeeneuring2020

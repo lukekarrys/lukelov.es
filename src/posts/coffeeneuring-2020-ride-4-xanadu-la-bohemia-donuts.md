@@ -1,6 +1,6 @@
 ---
 title: "Coffeeneuring Challenge 2020 #4: Downtown Phoenix Coffee and Donuts"
-date: "2020-11-22T19:06:50-07:00"
+date: "2020-11-14"
 tags:
   - coffeeneuring
   - coffeeneuring2020
