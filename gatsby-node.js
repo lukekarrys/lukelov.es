@@ -2,31 +2,40 @@ const path = require("path")
 const _ = require("lodash")
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
+const production = process.env.NODE_ENV === "production"
+
 const createPostPages = ({ actions, posts }) => {
-  posts.forEach(post => {
+  posts.forEach((post) => {
     actions.createPage({
       path: post.fields.slug,
       component: path.resolve(`src/templates/post.js`),
-      context: { slug: post.fields.slug }
+      context: { slug: post.fields.slug },
     })
   })
 }
 
 const createTagPages = ({ actions, posts }) => {
+  const frontmatterFilter = production
+    ? {
+        draft: { ne: true },
+      }
+    : {}
   posts
     .reduce(
       (acc, post) =>
         post.frontmatter.tags.reduce((acc, tag) => acc.add(tag), acc),
       new Set()
     )
-    .forEach(tag => {
+    .forEach((tag) => {
       actions.createPage({
         path: `/tags/${tag}`,
         component: path.resolve(`src/templates/postListing.js`),
         context: {
           title: `Tag: ${tag}`,
-          filter: { frontmatter: { tags: { in: [tag] } } }
-        }
+          filter: {
+            frontmatter: { ...frontmatterFilter, tags: { in: [tag] } },
+          },
+        },
       })
     })
 }
@@ -43,15 +52,15 @@ const createListingPages = ({ actions, posts, limit = 100 }) => {
         limit,
         skip: i * limit,
         totalPages,
-        currentPage
-      }
+        currentPage,
+      },
     })
   })
 
   actions.createPage({
     path: `/full`,
     component: path.resolve(`src/templates/postListing.js`),
-    context: { title: `All Posts` }
+    context: { title: `All Posts` },
   })
 }
 
@@ -61,7 +70,7 @@ const createPostFields = ({ actions, node, getNode }) => {
   const filename = createFilePath({ node, getNode })
 
   node.frontmatter.tags = Array.isArray(node.frontmatter.tags)
-    ? node.frontmatter.tags.map(t => t.replace(/\s/g, "-"))
+    ? node.frontmatter.tags.map((t) => t.replace(/\s/g, "-"))
     : []
 
   createNodeField({ node, name: `slug`, value: `/articles${filename}` })
@@ -72,7 +81,10 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   const results = await graphql(`
     query {
-      allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
+      allMarkdownRemark(
+        sort: { order: DESC, fields: [frontmatter___date] }
+        ${production ? "filter: { frontmatter: { draft: { ne: true } } }" : ""}
+      ) {
         edges {
           node {
             fields {

@@ -13,7 +13,7 @@ tags:
 - [Instagram](https://www.instagram.com/p/CHJWEziJeMh/)
 - Distance: 20.95 miles – [Strava](https://www.strava.com/activities/4282209423)
 - Drink: Flora Pour Over, Macchiato, GF Apple Cider Donut
-- Location: [Mythical Coffee](https://www.instagram.com/mythical.coffee) - [1090 S Gilbert Rd #102, Gilbert, AZ 85296](https://goo.gl/maps/81AxaKecuKWynTmk9)
+- Location: [Mythical Coffee](https://www.instagram.com/mythical.coffee)
 
 Some facts about me:
 

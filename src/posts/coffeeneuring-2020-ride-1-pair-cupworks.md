@@ -13,7 +13,7 @@ tags:
 - [Instagram](https://www.instagram.com/p/CHD_YbHJZHH/)
 - Distance: 6.6 miles – [Strava](https://www.strava.com/activities/4269439559)
 - Drink: Toasted Sesame Latte (hot with whole milk)
-- Location: [Pair Cupworks](https://instagram.com/pair.cupworks) - [31 S Robson, #103, Mesa, AZ 85210](https://g.page/Pair-Cupworks)
+- Location: [Pair Cupworks](https://instagram.com/pair.cupworks)
 
 I had been meaning to get out on this ride all week since first I heard about [coffeeneuring](https://chasingmailboxes.com/category/coffeeneuring/) on [r/surlybikefans](https://reddit.com/r/surlybikefans). Coffee! Bikes! Rules! What's not to love?
 
