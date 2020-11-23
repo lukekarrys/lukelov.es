@@ -4,6 +4,30 @@ const { createFilePath } = require(`gatsby-source-filesystem`)
 
 const production = process.env.NODE_ENV === "production"
 
+const stringifyGraphql = (obj) => {
+  let stringified = JSON.stringify(obj).replace(/"([^"]+)":/g, "$1:")
+
+  if (stringified.startsWith("{")) {
+    stringified = stringified.replace(/^{/, "").replace(/}$/, "")
+  }
+
+  return stringified
+}
+
+const filterDrafts = (opts) =>
+  _.merge(
+    opts ? { filter: opts } : {},
+    production
+      ? {
+          filter: {
+            frontmatter: {
+              draft: { ne: true },
+            },
+          },
+        }
+      : {}
+  )
+
 const createPostPages = ({ actions, posts }) => {
   posts.forEach((post) => {
     actions.createPage({
@@ -15,11 +39,6 @@ const createPostPages = ({ actions, posts }) => {
 }
 
 const createTagPages = ({ actions, posts }) => {
-  const frontmatterFilter = production
-    ? {
-        draft: { ne: true },
-      }
-    : {}
   posts
     .reduce(
       (acc, post) =>
@@ -32,9 +51,9 @@ const createTagPages = ({ actions, posts }) => {
         component: path.resolve(`src/templates/postListing.js`),
         context: {
           title: `Tag: ${tag}`,
-          filter: {
-            frontmatter: { ...frontmatterFilter, tags: { in: [tag] } },
-          },
+          ...filterDrafts({
+            frontmatter: { tags: { in: [tag] } },
+          }),
         },
       })
     })
@@ -53,6 +72,7 @@ const createListingPages = ({ actions, posts, limit = 100 }) => {
         skip: i * limit,
         totalPages,
         currentPage,
+        ...filterDrafts(),
       },
     })
   })
@@ -60,7 +80,10 @@ const createListingPages = ({ actions, posts, limit = 100 }) => {
   actions.createPage({
     path: `/full`,
     component: path.resolve(`src/templates/postListing.js`),
-    context: { title: `All Posts` },
+    context: {
+      title: `All Posts`,
+      ...filterDrafts(),
+    },
   })
 }
 
@@ -77,13 +100,11 @@ const createPostFields = ({ actions, node, getNode }) => {
 }
 
 exports.createPages = async ({ graphql, actions, reporter }) => {
-  const { createPage } = actions
-
   const results = await graphql(`
     query {
       allMarkdownRemark(
         sort: { order: DESC, fields: [frontmatter___date] }
-        ${production ? "filter: { frontmatter: { draft: { ne: true } } }" : ""}
+        ${stringifyGraphql(filterDrafts())}
       ) {
         edges {
           node {
