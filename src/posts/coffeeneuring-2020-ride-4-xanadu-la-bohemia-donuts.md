@@ -6,7 +6,6 @@ tags:
   - coffeeneuring2020
   - bikes
   - cross-check
-draft: true
 ---
 
 - Ride #4
@@ -16,23 +15,15 @@ draft: true
 - Drink: Espresso, Mocha, Donuts
 - Location: [Xanadu Coffee](https://www.instagram.com/xanadu.coffee/), [La Bohemia](https://www.instagram.com/labohemiaphx/), [Urban Cookies](https://www.instagram.com/urban_cookies/)
 
-<<<<<<< Updated upstream
-There's so much good coffee and food that I never get to downtown. There's even a nice 20 mile route through a pretty easy series of bike routes and canals to get there. So coffeeneuring was a great excuse to get out and try some new places. I figured I would probably only get downtown once so I wanted to hit a few places even though it would only count towards one coffeeneuring challenge trip.
-=======
-There's so much good coffee and food in Phoenix that I never make it out to try. So
->>>>>>> Stashed changes
+There's so much good coffee and food that I never get to in downtown Phoenix. There's even a nice 20 mile route through a pretty easy series of bike routes and canals to get there. So coffeeneuring was a great excuse to get out and try some new places. I figured I would probably only get downtown once so I wanted to hit a few places even though it would only count towards one coffeeneuring challenge trip.
 
 ![bike](../images/coffeeneuring/2020/ride-4/bike.jpg)
 
 ## The Ride
 
-<<<<<<< Updated upstream
 The Grand Canal connects my normal route from Mesa to Tempe with
 
-![](../images/coffeeneuring/2020/ride-4/canal.jpg)
-=======
 ![A well manicured portion of the Grand Canal in Phoenix](../images/coffeeneuring/2020/ride-4/canal.jpg)
->>>>>>> Stashed changes
 
 ![Camelback Mountain in the distance to the north taken from the Grand Canal](../images/coffeeneuring/2020/ride-4/camelback.jpg)
 
