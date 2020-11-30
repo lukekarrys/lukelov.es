@@ -16,30 +16,40 @@ draft: true
 - Drink: Espresso, Mocha, Donuts
 - Location: [Xanadu Coffee](https://www.instagram.com/xanadu.coffee/), [La Bohemia](https://www.instagram.com/labohemiaphx/), [Urban Cookies](https://www.instagram.com/urban_cookies/)
 
+<<<<<<< Updated upstream
 There's so much good coffee and food that I never get to downtown. There's even a nice 20 mile route through a pretty easy series of bike routes and canals to get there. So coffeeneuring was a great excuse to get out and try some new places. I figured I would probably only get downtown once so I wanted to hit a few places even though it would only count towards one coffeeneuring challenge trip.
+=======
+There's so much good coffee and food in Phoenix that I never make it out to try. So
+>>>>>>> Stashed changes
 
 ![bike](../images/coffeeneuring/2020/ride-4/bike.jpg)
 
 ## The Ride
 
+<<<<<<< Updated upstream
 The Grand Canal connects my normal route from Mesa to Tempe with
 
 ![](../images/coffeeneuring/2020/ride-4/canal.jpg)
+=======
+![A well manicured portion of the Grand Canal in Phoenix](../images/coffeeneuring/2020/ride-4/canal.jpg)
+>>>>>>> Stashed changes
 
-![](../images/coffeeneuring/2020/ride-4/camelback.jpg)
+![Camelback Mountain in the distance to the north taken from the Grand Canal](../images/coffeeneuring/2020/ride-4/camelback.jpg)
 
 My kids love animals, so when I saw some interesting looking birds I thought it would be fun to take pictures and try to identify them when I got home. We looked them up and [a super cool](http://www.birderfrommaricopa.com) website about birds in Maricopa County.
 
-![A flock of Black Necked Stilts](../images/coffeeneuring/2020/ride-4/black-necked-stilt.jpg)
+![A group of six Black Necked Stilts standing on the gravel bank of a canal in Phoenix](../images/coffeeneuring/2020/ride-4/black-necked-stilt.jpg)
 
-![A Great Blue Heron](../images/coffeeneuring/2020/ride-4/great-blue-heron.jpg)
+![A Great Blue Heron walking along the gravel bank of a canal in Phoenix](../images/coffeeneuring/2020/ride-4/great-blue-heron.jpg)
 
 ## The Drink(s)
 
-![](../images/coffeeneuring/2020/ride-4/xanadu-espresso.jpg)
+I stopped at Xanadu Coffee first and I heard they make good espresso, so I kept it simple with a plain espresso.
 
-![](../images/coffeeneuring/2020/ride-4/mocha.jpg)
+![An espresso and sparkling water sitting on a table in homemade cups](../images/coffeeneuring/2020/ride-4/xanadu-espresso.jpg)
 
-![](../images/coffeeneuring/2020/ride-4/maple-donut.jpg)
+![A mocha in a paper cup with an orage LA BOHEMIA sticker on it sitting on a table. In the background is a mask, hip pack, and paper bag.](../images/coffeeneuring/2020/ride-4/mocha.jpg)
+
+![A maple pecan donut in a box with one large bite taken out of it](../images/coffeeneuring/2020/ride-4/maple-donut.jpg)
 
 ## One Good Thing
