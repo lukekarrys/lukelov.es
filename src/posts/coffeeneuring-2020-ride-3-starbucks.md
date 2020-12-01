@@ -37,7 +37,7 @@ Starbucks lemonade (or any lemonade) is a favorite of my kids. In fact, Starbuck
 
 Playing soccer with my kids which turned into a game of "Steal the Ball from the Sleeping Tiger". There are rules that the 5 year old came up with, but they changed a few times and I'll not sure I could explain them in any case.
 
-![The kids playing a game of "Steal the ball from the sleeping tiger"](../images/coffeeneuring/2020/ride-3/sleeping-tiger-1.jpg)
+![One kid "sleeping" with the soccer ball while the other kids runs towards them](../images/coffeeneuring/2020/ride-3/sleeping-tiger-1.jpg)
 
 ![The kids playing a game of "Steal the ball from the sleeping tiger"](../images/coffeeneuring/2020/ride-3/sleeping-tiger-2.jpg)
 
