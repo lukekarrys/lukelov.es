@@ -17,7 +17,7 @@ tags:
 
 There's so much good coffee and food that I never get to in downtown Phoenix. There's even a nice 20 mile route through a series of bike routes and canals to get there. So coffeeneuring was a great excuse to get out and try some new places. I figured I would probably only get downtown once so I wanted to hit a few places even though it would only count towards one coffeeneuring challenge trip.
 
-![bike](../images/coffeeneuring/2020/ride-4/bike.jpg)
+![Surly Cross-Check with frame bag, water bottle, hip pack, and donut bag](../images/coffeeneuring/2020/ride-4/bike.jpg)
 
 ## The Ride
 
@@ -25,13 +25,15 @@ The ride started with my normal route to Tempe, and once I got there I crossed T
 
 ![A well manicured portion of the Grand Canal in Phoenix](../images/coffeeneuring/2020/ride-4/canal.jpg)
 
-Based on some cycling maps, I thought Washington had a bike the lane the whole way but that was not true. The lane disappeared for the last couple blocks but it wasn't too bad with the double lane and light Saturday traffic.
+Based on some cycling maps, I thought Washington had a bike lane the whole way but that was not true. The lane disappeared for the last couple blocks, but it wasn't too bad with the double lane and light Saturday traffic.
 
 Riding through downtown was fun, even with a few wrong turns. I ended up on the sidewalk a few times but that was probably unfamiliarity with the good biking streets in the area. I did end up on Oak Street which was super nice and included some really cool murals.
 
-![mural](../images/coffeeneuring/2020/ride-4/mural.jpg)
+![A mural of Lisa Simpson](../images/coffeeneuring/2020/ride-4/mural.jpg)
 
-On the way back, I stayed on the canal for longer and found some neat looking birds. My kids love animals, so I thought it would be fun to take pictures and try to identify them when I got home. We looked them up and found [a super cool](http://www.birderfrommaricopa.com) website about birds in Maricopa County.
+On the way back, I was able to get on the Grand Canal for for longer and found some neat looking birds. My kids love animals, so I thought it would be fun to take pictures and try to identify them when I got home. We looked them up and found [a super cool](http://www.birderfrommaricopa.com) website about birds in Maricopa County.
+
+They ended up being Black Necked Stilts and a Great Blue Heron!
 
 ![A group of six Black Necked Stilts standing on the gravel bank of a canal in Phoenix](../images/coffeeneuring/2020/ride-4/black-necked-stilt.jpg)
 
@@ -39,7 +41,7 @@ On the way back, I stayed on the canal for longer and found some neat looking bi
 
 ## The Drink(s)
 
-I stopped at Xanadu Coffee first and had heard they make good espresso, so I kept it simple with a plain espresso. It was delicious with some og
+I stopped at Xanadu Coffee first and had heard they make great espresso, so I kept it simple with a plain espresso. It was delicious with some of the coolest custom ceramic cups I've seen.
 
 ![An espresso and sparkling water sitting on a table in homemade cups](../images/coffeeneuring/2020/ride-4/xanadu-espresso.jpg)
 
@@ -47,9 +49,11 @@ Next up was Urban Cookies. I had planned on a donut, but upon seeing the menu th
 
 ![A maple pecan donut in a box with one large bite taken out of it](../images/coffeeneuring/2020/ride-4/maple-donut.jpg)
 
-I took the donuts to LA BOHEMIA where I got the Mocha which was the best mocha I've ever had. The barista explained that they were really proud of that recipe and it made me excited to get down there more often. I also dipped the cinnamon sugar donut in the last few sips of Mocha and it was a taste I won't soon forget.
+I took the donuts to LA BOHEMIA where I got the Mocha. They do great drink photos on Instagram which is what enticed me to get the mocha. It tasted even better! Probably the best Mocha I've ever had. It's going to be tough to try anything else on their menu. It was that good. I also dipped the cinnamon sugar donut in the last few sips of Mocha and it was a taste I won't soon forget.
 
 ![A mocha in a paper cup with an orage LA BOHEMIA sticker on it sitting on a table. In the background is a mask, hip pack, and paper bag.](../images/coffeeneuring/2020/ride-4/mocha.jpg)
+
+I did end up with an extra donut that I couldn't eat, but it sat perfectly on my shifter cables for the the ride home where my wife was more than happy to take it off my hands.
 
 ## One Good Thing
 
