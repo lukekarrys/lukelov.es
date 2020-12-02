@@ -30,6 +30,9 @@ const Layout = ({ children }) => {
           <Link className="extra" to="https://photos.lukelov.es">
             photos
           </Link>
+          <Link className="extra" to="https://instagram.com/lukes.outside">
+            &lsquo;gram
+          </Link>
         </div>
         <main>{children}</main>
         <div className="footer">
