@@ -20,8 +20,10 @@ const filterDrafts = (opts) =>
     production
       ? {
           filter: {
-            frontmatter: {
-              draft: { ne: true },
+            fields: {
+              draft: {
+                eq: false,
+              },
             },
           },
         }
@@ -97,6 +99,11 @@ const createPostFields = ({ actions, node, getNode }) => {
     : []
 
   createNodeField({ node, name: `slug`, value: `/articles${filename}` })
+  createNodeField({
+    node,
+    name: "draft",
+    value: node.frontmatter.draft ?? false,
+  })
 }
 
 exports.createPages = async ({ graphql, actions, reporter }) => {

@@ -20,22 +20,38 @@ I wanted to get one "Cofeeshop Without Walls" badge for this year's challenge. I
 
 ## The Ride
 
+It was a beautiful morning for the canal, probably even "crisp" by Phoenix standards.
+
 ![The canal looking towards Red Mountain](../images/coffeeneuring/2020/ride-6/canal.jpg)
+
+This canal is also part of the Maricopa trail.
 
 ![](../images/coffeeneuring/2020/ride-6/maricopa-trail.jpg)
 
+It gets pretty close to Red Mountain, almost as close as you can get I think.
+
 ![The canal looking towards Red Mountain](../images/coffeeneuring/2020/ride-6/red-mountain.jpg)
+
+I also found this chair sitting alongside the canal near Power Road. I was not brave enough to sit in it.
 
 ![A reclining chair sitting in the middle of a Sonoran desert landscape](../images/coffeeneuring/2020/ride-6/chair.jpg)
 
+I eventually made it to Wild Horse Trail which I've run a few times but never ridden. It was a blast. Basically my first real time on singletrack on this bike and it felt great. I'm running tubes with Flat Attack so I kept the pressure pretty high, so I think it would've been even more comfortable if I went tubeless.
+
 ![](../images/coffeeneuring/2020/ride-6/bike-wild-horse.jpg)
+
+After the 3.5 mile stretch, I ended up about halfway up Usery Pass from the river. I made it to the rest of the way and was rewarded with a nice downhill and a stop at the Phoenix sign.
 
 ![](../images/coffeeneuring/2020/ride-6/phoenix-sign.jpg)
 
 ## The Drink
 
+I thought about stopping somewhere along the trail to make coffee but it was kinda crowded, and I was in a rhythm so I didn't want to stop until I was on the downhill. I thought about pulling into Usery Regional Park but I realized I only brought my ID and credit card and left my wallet, meaning I didn't have my yearly pass to get in.
+
+But I made it down the other side of Usery and to Red Mountain park, which had a ton of space and some open ramadas. I made coffee, ate some peanut butter packets, and chilled in a chair.
+
 ![](../images/coffeeneuring/2020/ride-6/coffee-setup.jpg)
 
 ## One Good Thing
 
-Singletrack!
+Singletrack! I rode up to Hawes one other time and hopped on the trails and immediately noticed I had a goat head puncture flat. I didn't get out again for awhile, so it was great to try it again. I'm pretty much brand new to off-road cycling so it was a cool confidence builder that I can tackle the easy stuff.
