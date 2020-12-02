@@ -27,6 +27,9 @@ const Layout = ({ children }) => {
           <Link className="extra" to="/now">
             now
           </Link>
+          <Link className="extra" to="https://photos.lukelov.es">
+            photos
+          </Link>
         </div>
         <main>{children}</main>
         <div className="footer">
