@@ -34,4 +34,4 @@ An 80 degree day in November meant it was still iced coffee weather. I went with
 
 ## One Good Thing
 
-New bike stem!
+New bike stem! I'm getting more comfortable with how this bike feels, and I could tell I was reaching a little far with the Moloko Bars. So I went down from a 90mm to 60mm stem and it feels much better.
