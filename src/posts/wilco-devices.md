@@ -13,7 +13,7 @@ tags:
 - Hummingbird <small>_(Old apartment Airplay)_</small>
 - tweedy <small>_(Old Linode server)_</small>
 - tweedy <small>_(Hackintosh tower)_</small>
-- Pieholden <small>_(Macbook Air, previous work laptops)_</small>
+- Pieholden <small>_(MacBook Air, previous work laptops)_</small>
 - Radio Cure <small>_(iPhone 4)_</small>
 - Pop Quiz Kid <small>_(iPhone 5)_</small>
 - Hell is Aluminum Alloy <small>_(iPhone 6s)_</small>
