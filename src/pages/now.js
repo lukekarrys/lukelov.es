@@ -13,7 +13,7 @@ const NotFoundPage = () => (
       to solve pointless puzzles.
     </p>
     <p>
-      <a href="https://lukekarrys.es">a.com</a> – My previous personal site had
+      <a href="https://lukekarrys.com">lukekarrys.com</a> – My previous personal site had
       a picture of me from my wedding day which is almost 3 kids ago. I decided
       to update it with the color scheme I was using for my resume. I tried to
       keep it simple and do fun/silly stuff while keeping it accessible with{" "}
