@@ -39,7 +39,7 @@ const Layout = ({ children }) => {
           <div className="contact">
             <p>
               I'm <a href="http://lukekarrys.com">Luke</a>.<br />I live in
-              Arizona but I'm fron the Internat.
+              Arizona but I'm from the Internet.
             </p>
           </div>
         </div>
