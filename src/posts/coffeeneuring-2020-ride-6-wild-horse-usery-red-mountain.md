@@ -16,41 +16,41 @@ tags:
 
 I wanted to get one "Cofeeshop Without Walls" badge for this year's challenge. I planned out this route pretty well, including a canal that I was pretty familiar with and connecting that with some singletrack that I've run but never biked before. I left it up to how I felt at the time to decide where to make the coffee and whether to do an out-n-back or make a loop and return home via roads.
 
-![A Surly Bridge Club with small saddle bag, pump, two bottles of water, top tube bag, feed bag, and large handlebar bag](../images/coffeeneuring/2020/ride-6/bike.jpg)
+![A Surly Bridge Club leaning on a tree with small saddle bag, pump, two bottles of water, top tube bag, feed bag, and large handlebar bag](../images/coffeeneuring/2020/ride-6/bike.jpg)
 
 ## The Ride
 
 It was a beautiful morning for the canal, probably even "crisp" by Phoenix standards.
 
-![The canal looking towards Red Mountain](../images/coffeeneuring/2020/ride-6/canal.jpg)
+![The canal lined with citrus trees looking towards Red Mountain](../images/coffeeneuring/2020/ride-6/canal.jpg)
 
-This canal is also part of the Maricopa trail.
+This canal is probably my favorite in that is passes through some areas without any houses and leaves some really nice views of Red Mountain and Four Peaks. It is also part of the Maricopa Trail.
 
-![](../images/coffeeneuring/2020/ride-6/maricopa-trail.jpg)
+![A close up of a Maricopa Trail sign along the canal with a blurry Red Mountain in the background](../images/coffeeneuring/2020/ride-6/maricopa-trail.jpg)
 
-It gets pretty close to Red Mountain, almost as close as you can get I think.
+It gets pretty close to Red Mountain, offering up some great views like the one below.
 
-![The canal looking towards Red Mountain](../images/coffeeneuring/2020/ride-6/red-mountain.jpg)
+![Red Mountain rising out of the desert against a blue sky with a few wispy white clouds](../images/coffeeneuring/2020/ride-6/red-mountain.jpg)
 
-I also found this chair sitting alongside the canal near Power Road. I was not brave enough to sit in it.
+I also found this chair sitting along the canal near Power Road. I was not brave enough to sit in it.
 
 ![A reclining chair sitting in the middle of a Sonoran desert landscape](../images/coffeeneuring/2020/ride-6/chair.jpg)
 
-I eventually made it to Wild Horse Trail which I've run a few times but never ridden. It was a blast. Basically my first real time on singletrack on this bike and it felt great. I'm running tubes with Flat Attack so I kept the pressure pretty high, so I think it would've been even more comfortable if I went tubeless.
+I eventually made it to Wild Horse Trail which I've run a few times but never ridden. It was a blast. It was essentially my first real time on singletrack on this bike and it felt great. The last time I picked too hard of a trail and got a flat tire, so this was a nice change from that. I'm running tubes with Flat Attack so I kept the pressure pretty high, so I think it would've been even more comfortable if I went tubeless. But overall it was a ton of fun and I can't wait to get back out there. It was a little crowded but I went during a peak time, and picking the occasional weekday morning should have it be pretty empty.
 
-![](../images/coffeeneuring/2020/ride-6/bike-wild-horse.jpg)
+![A red Surly Bridge Club on a dirt trail against a backdrop of cacti and Red Mountain](../images/coffeeneuring/2020/ride-6/bike-wild-horse.jpg)
 
-After the 3.5 mile stretch, I ended up about halfway up Usery Pass from the river. I made it to the rest of the way and was rewarded with a nice downhill and a stop at the Phoenix sign.
+After the 3.5 mile stretch of singletrack, I ended up about halfway up the north side of Usery Pass. I made it to the rest of the way along Usery Pass road and saw a few other cyclists, but I'm guessing I was the only one on 2.4 inch tires and a load of gear to make coffee. My reward was some nice downhill (during which I accidentally turned off my GPS) and a stop at [the Phoenix arrow sign](https://arizonaoddities.com/2012/03/giant-arrow-points-to-phoenix/).
 
-![](../images/coffeeneuring/2020/ride-6/phoenix-sign.jpg)
+![A red Surly Bridge Club leaning against a gate with a sign saying "Road Closed" and rocks painted to form an arrow and the word PHOENIX in the side of a mountain in the background](../images/coffeeneuring/2020/ride-6/phoenix-sign.jpg)
 
 ## The Drink
 
-I thought about stopping somewhere along the trail to make coffee but it was kinda crowded, and I was in a rhythm so I didn't want to stop until I was on the downhill. I thought about pulling into Usery Regional Park but I realized I only brought my ID and credit card and left my wallet, meaning I didn't have my yearly pass to get in.
+I thought about stopping somewhere along the trail to make coffee but it was kinda crowded, and I was in a rhythm so I didn't want to stop until I was on the downhill. I thought about pulling into Usery Regional Park but I realized I only brought my ID and credit card and left my wallet at home, meaning I didn't have my yearly pass to get in. Ugh!
 
-But I made it down the other side of Usery and to Red Mountain park, which had a ton of space and some open ramadas. I made coffee, ate some peanut butter packets, and chilled in a chair.
+But I made it down to Red Mountain park, which had a ton of space and some open ramadas. I made coffee, ate some peanut butter packets, and chilled in my camping chair.
 
-![](../images/coffeeneuring/2020/ride-6/coffee-setup.jpg)
+![A plethora of coffee and bike gear on a picnic table in a park](../images/coffeeneuring/2020/ride-6/coffee-setup.jpg)
 
 ## One Good Thing
 

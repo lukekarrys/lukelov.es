@@ -28,27 +28,27 @@ But I did it! I got up early(-er) than usual so I could get out for a longer rid
 
 ![Mythical Coffee sign](../images/coffeeneuring/2020/ride-2/mythical-sign.jpg)
 
-![Mythical Coffee sign](../images/coffeeneuring/2020/ride-2/bike.jpg)
+![A black Surly Cross-Check leaning against a shop window](../images/coffeeneuring/2020/ride-2/bike.jpg)
 
 ## The Ride
 
-It was almost chilly when I went outside. I backtracked a bit for the quietest route to the Consolidated Canal which is also a section of the Maricopa Trail. I mostly stayed on the unpaved side as I made my way south, passing by some interesting houses with horses, cows, and I think I spotted a peacock.
+It was almost chilly when I went outside. I backtracked a bit for the quietest route to the Consolidated Canal which is also a section of the Maricopa Trail, which is a 300-something mile route around the entire valley. I mostly stayed on the unpaved side as I made my way south, passing by some interesting houses with horses, cows, and I think I spotted a peacock.
 
-![Sign with map of Maricopa Trail](../images/coffeeneuring/2020/ride-2/maricopa-trail-map.jpg)
+![Sign with a local map of Maricopa Trail and a map of the entire Maricopa Trail](../images/coffeeneuring/2020/ride-2/maricopa-trail-map.jpg)
 
 After the coffee, I went back on surface streets and was able to stick mostly to bike lanes. I made a few wrong turns trying to guess how far south Horne went but I got it eventually. I also passed by a large grass drainage area that I did a quick lap around. I'm currently rocking 700x38 tires on the Cross-Check which make potholes, unpaved canals, and grass like this a ton of fun.
 
-![Bike lanes on Horne going over the 60](../images/coffeeneuring/2020/ride-2/bike-lane.jpg)
+![A street with wide bike lanes on both sides](../images/coffeeneuring/2020/ride-2/bike-lane.jpg)
 
-![Park along Horne with big grass basin](../images/coffeeneuring/2020/ride-2/basin-park.jpg)
+![A big grass basin behind an almost empty parking lot to a park](../images/coffeeneuring/2020/ride-2/basin-park.jpg)
 
 Also the route to me looked like a really unfortunately balanced bear, but my daughter thought it was more of a ladybug.
 
-![Strava route](../images/coffeeneuring/2020/ride-2/route.png)
+![A red outline of the route on a map](../images/coffeeneuring/2020/ride-2/route.png)
 
-![Outline of the route that looks like a bear](../images/coffeeneuring/2020/ride-2/route-bear.png)
+![Outline of the route that looks like a bear on grass](../images/coffeeneuring/2020/ride-2/route-bear.png)
 
-![Outline of the route that looks like a ladybug](../images/coffeeneuring/2020/ride-2/route-ladybug.png)
+![Outline of the route that looks like a ladybug under a yellow sun](../images/coffeeneuring/2020/ride-2/route-ladybug.png)
 
 ## The Drink(s)
 
@@ -56,12 +56,12 @@ I got to Mythical and was craving a plain cup o' coffee. They roast really great
 
 I drank it outside and the weather was perfect by that point. It was so nice and I wasn't ready to leave yet (and needed a bit more caffeine) so I got a macchiato. I also got sucked in by the pastry case and saw they had gluten free pastries and opted for an apple cider donut. They made a delicious pair and there's nothing I love more than dipping a donut in coffee.
 
-![A macchiato with a side of sparkling water on a triangular tray](../images/coffeeneuring/2020/ride-2/macchiato.jpg)
+![A macchiato with a side of sparkling water on a green triangular tray](../images/coffeeneuring/2020/ride-2/macchiato.jpg)
 
-![A gluten-free apple cider donut](../images/coffeeneuring/2020/ride-2/donut.jpg)
+![A gluten-free apple cider donut on a pink plate](../images/coffeeneuring/2020/ride-2/donut.jpg)
 
 ## One Good Thing
 
 I brought my journal which has seen on and off use this year but mostly off lately. It was nice to write up some random thoughts on something other than a screen. It always relaxes me.
 
-![A gluten-free apple cider donut](../images/coffeeneuring/2020/ride-2/table.jpg)
+![Two bags of coffee, a hip pack, a journal, and a cup of coffee on a table](../images/coffeeneuring/2020/ride-2/table.jpg)
