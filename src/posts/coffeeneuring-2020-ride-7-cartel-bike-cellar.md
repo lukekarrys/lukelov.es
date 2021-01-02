@@ -16,7 +16,10 @@ tags:
 
 Down to the last day of the challenge, I just needed to ride my bike somewhere to get coffee that I hadn't already been to. I also needed a new stem for my bike. Good thing Cartel Coffee is right by my favorite bike shop The Bicycle Cellar in Tempe!
 
-![A red Surly Bridge Club in front of some decorative rocks with bags on the handlebars, stem, top tube, and saddle](../images/coffeeneuring/2020/ride-7/bike.jpg)
+<figure>
+  <img alt="A red Surly Bridge Club in front of some decorative rocks with bags on the handlebars, stem, top tube, and saddle" src="../images/coffeeneuring/2020/ride-7/bike.jpg" />
+  <figcaption>111</figcaption>
+</figure>
 
 ![A close up of the front end of a Surly Bridge Club with a handlebar bag and a stem bag with a plastic coffee cup in it](../images/coffeeneuring/2020/ride-7/front-end.jpg)
 
