@@ -7,7 +7,15 @@ tags:
   - talks
 ---
 
-<iframe src="https://player.vimeo.com/video/70900013" width="500" height="281" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen=""></iframe>
+<iframe
+  src="https://player.vimeo.com/video/70900013"
+  width="500"
+  height="281"
+  frameborder="0"
+  webkitAllowFullScreen=""
+  mozallowfullscreen=""
+  allowFullScreen=""
+></iframe>
 
 [**Video on Vimeo.**](https://vimeo.com/70900013)
 
@@ -23,11 +31,23 @@ My job. The Woods. The Internet.
 
 John Higley asked me (mostly in jest I think) what my talk was about. With a 21 word talk title that pretty much lays out exactly what my talk sounds like it will be about, it got me thinking.
 
-<blockquote class="twitter-tweet"><p><a href="https://twitter.com/lukekarrys">@lukekarrys</a> <a href="https://twitter.com/TriConf">@TriConf</a> what’s it about?</p>&mdash; John Higley (@higley) <a href="https://twitter.com/higley/statuses/357949815323246592">July 18, 2013</a></blockquote>
+<blockquote class="twitter-tweet">
+  <p>
+    <a href="https://twitter.com/lukekarrys">@lukekarrys</a>{" "}
+    <a href="https://twitter.com/TriConf">@TriConf</a> what’s it about?
+  </p>
+  &mdash; John Higley (@higley) <a href="https://twitter.com/higley/statuses/357949815323246592">July 18, 2013</a>
+</blockquote>
 
 What is my talk about? Could I tell someone how to get their dream job? Maybe. Could I tell someone how to live in the woods? Work on the Internet? Yeah, I could probably give them some tips. But what is my talk really about?
 
-<blockquote class="twitter-tweet"><p><a href="https://twitter.com/higley">@higley</a> <a href="https://twitter.com/TriConf">@TriConf</a> Passion, I think.</p>&mdash; Luke Karrys (@lukekarrys) <a href="https://twitter.com/lukekarrys/statuses/357949919471996930">July 18, 2013</a></blockquote>
+<blockquote class="twitter-tweet">
+  <p>
+    <a href="https://twitter.com/higley">@higley</a>{" "}
+    <a href="https://twitter.com/TriConf">@TriConf</a> Passion, I think.
+  </p>
+  &mdash; Luke Karrys (@lukekarrys) <a href="https://twitter.com/lukekarrys/statuses/357949919471996930">July 18, 2013</a>
+</blockquote>
 
 This is a talk about passion.
 
@@ -52,7 +72,13 @@ There were 100 different ways I could've convinced myself the email wasn't worth
 - I had never met him in real life.
 - The only conversation I'd ever had with Adam was this tweet agreeing with him about marketing for gluten free restaurants.
 
-<blockquote class="twitter-tweet"><p><a href="https://twitter.com/adambrault">@adambrault</a> Definitely. I have done that for a ton of restaurants.</p>&mdash; Luke Karrys (@lukekarrys) <a href="https://twitter.com/lukekarrys/statuses/246430926593200128">September 14, 2012</a></blockquote>
+<blockquote class="twitter-tweet">
+  <p>
+    <a href="https://twitter.com/adambrault">@adambrault</a> Definitely. I have
+    done that for a ton of restaurants.
+  </p>
+  &mdash; Luke Karrys (@lukekarrys) <a href="https://twitter.com/lukekarrys/statuses/246430926593200128">September 14, 2012</a>
+</blockquote>
 
 But I had this nagging feeling.
 

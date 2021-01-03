@@ -17,11 +17,24 @@ tags:
 Down to the last day of the challenge, I just needed to ride my bike somewhere to get coffee that I hadn't already been to. I also needed a new stem for my bike. Good thing Cartel Coffee is right by my favorite bike shop The Bicycle Cellar in Tempe!
 
 <figure>
-  <img alt="A red Surly Bridge Club in front of some decorative rocks with bags on the handlebars, stem, top tube, and saddle" src="../images/coffeeneuring/2020/ride-7/bike.jpg" />
-  <figcaption>111</figcaption>
+  <img
+    alt="A red Surly Bridge Club in front of some decorative rocks with bags on the handlebars, stem, top tube, and saddle"
+    src="../images/coffeeneuring/2020/ride-7/bike.jpg"
+  />
+  <figcaption>
+    You can barely see my small coffee sticking out of my stem bag
+  </figcaption>
 </figure>
 
-![A close up of the front end of a Surly Bridge Club with a handlebar bag and a stem bag with a plastic coffee cup in it](../images/coffeeneuring/2020/ride-7/front-end.jpg)
+<figure>
+  <img
+    src="../images/coffeeneuring/2020/ride-7/front-end.jpg"
+    alt="A close up of the front end of a Surly Bridge Club with a handlebar bag and a stem bag with a plastic coffee cup in it"
+  />
+  <figcaption>
+    I had to take a front end shot to show the bag. I love this bag.
+  </figcaption>
+</figure>
 
 ## The Ride
 
@@ -29,7 +42,13 @@ I took University all the way down to grab coffee and make my Bicycle Cellar app
 
 On the way back I went through Papago and hit some climbs that I had to hike-a-bike to get up! I also came across a part of Papago I didn't know existed which some small dirt jumps. There's no way I was touching any of those so I did some downhill hike-a-bike also and walked my bike down and rode over to the nice flat canal.
 
-![A Surly Bridge Club in Papago park overlooking houses and mountains in the distance](../images/coffeeneuring/2020/ride-7/papago.jpg)
+<figure>
+  <img
+    src="../images/coffeeneuring/2020/ride-7/papago.jpg"
+    alt="A Surly Bridge Club in Papago park overlooking houses and mountains in the distance"
+  />
+  <figcaption>Full disclosure: I had to walk my bike up there</figcaption>
+</figure>
 
 ## The Drink
 

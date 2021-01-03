@@ -26,7 +26,7 @@ These combine to make coffeeneuring a morning only activity for me, but I always
 
 But I did it! I got up early(-er) than usual so I could get out for a longer ride to a shop I really like: Mythical Coffee.
 
-![Mythical Coffee sign](../images/coffeeneuring/2020/ride-2/mythical-sign.jpg)
+![A glass window with the words "Mythical Coffee" written on it](../images/coffeeneuring/2020/ride-2/mythical-sign.jpg)
 
 ![A black Surly Cross-Check leaning against a shop window](../images/coffeeneuring/2020/ride-2/bike.jpg)
 
@@ -34,19 +34,50 @@ But I did it! I got up early(-er) than usual so I could get out for a longer rid
 
 It was almost chilly when I went outside. I backtracked a bit for the quietest route to the Consolidated Canal which is also a section of the Maricopa Trail, which is a 300-something mile route around the entire valley. I mostly stayed on the unpaved side as I made my way south, passing by some interesting houses with horses, cows, and I think I spotted a peacock.
 
-![Sign with a local map of Maricopa Trail and a map of the entire Maricopa Trail](../images/coffeeneuring/2020/ride-2/maricopa-trail-map.jpg)
+<figure>
+  <img
+    src="../images/coffeeneuring/2020/ride-2/maricopa-trail-map.jpg"
+    alt="Sign with a local map of Maricopa Trail and a map of the entire Maricopa Trail"
+  />
+  <figcaption>
+    "I stop for maps" would make a great sticker I'd put on my bike
+  </figcaption>
+</figure>
 
 After the coffee, I went back on surface streets and was able to stick mostly to bike lanes. I made a few wrong turns trying to guess how far south Horne went but I got it eventually. I also passed by a large grass drainage area that I did a quick lap around. I'm currently rocking 700x38 tires on the Cross-Check which make potholes, unpaved canals, and grass like this a ton of fun.
 
-![A street with wide bike lanes on both sides](../images/coffeeneuring/2020/ride-2/bike-lane.jpg)
+<figure>
+  <img
+    src="../images/coffeeneuring/2020/ride-2/bike-lane.jpg"
+    alt="A street with wide bike lanes on both sides"
+  />
+  <figcaption>
+    Horne is a pretty great bike street to go North-South in Mesa
+  </figcaption>
+</figure>
 
-![A big grass basin behind an almost empty parking lot to a park](../images/coffeeneuring/2020/ride-2/basin-park.jpg)
+<figure>
+  <img
+    src="../images/coffeeneuring/2020/ride-2/basin-park.jpg"
+    alt="A big grass basin behind an almost empty parking lot to a park"
+  />
+  <figcaption>It was fun to rip through this grass real quick</figcaption>
+</figure>
 
 Also the route to me looked like a really unfortunately balanced bear, but my daughter thought it was more of a ladybug.
 
 ![A red outline of the route on a map](../images/coffeeneuring/2020/ride-2/route.png)
 
-![Outline of the route that looks like a bear on grass](../images/coffeeneuring/2020/ride-2/route-bear.png)
+<figure>
+  <img
+    src="../images/coffeeneuring/2020/ride-2/route-bear.png"
+    alt="Outline of the route that looks like a bear on grass"
+  />
+  <figcaption>
+    I imagine this bear has to take very slow and small steps to avoid tipping
+    over
+  </figcaption>
+</figure>
 
 ![Outline of the route that looks like a ladybug under a yellow sun](../images/coffeeneuring/2020/ride-2/route-ladybug.png)
 
@@ -64,4 +95,13 @@ I drank it outside and the weather was perfect by that point. It was so nice and
 
 I brought my journal which has seen on and off use this year but mostly off lately. It was nice to write up some random thoughts on something other than a screen. It always relaxes me.
 
-![Two bags of coffee, a hip pack, a journal, and a cup of coffee on a table](../images/coffeeneuring/2020/ride-2/table.jpg)
+<figure>
+  <img
+    src="../images/coffeeneuring/2020/ride-2/table.jpg"
+    alt="Two bags of coffee, a hip pack, a journal, and a cup of coffee on a table"
+  />
+  <figcaption>
+    I picked up a few bags of coffee too. Both Ethiopia and both delicious in
+    different ways.
+  </figcaption>
+</figure>

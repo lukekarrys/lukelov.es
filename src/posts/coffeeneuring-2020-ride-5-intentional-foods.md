@@ -16,7 +16,15 @@ tags:
 
 I had a different coffee shop planned for this that I wanted to ride to after an appointment. But I didn't have the energy after my appointment but luckily for me there was a restaurant serving coffee and donuts next door. I still got to enjoy a pretty good coffee and a great donut.
 
-![A black Surly Cross-Check with a klean kanteen in one bottle holder and a donut precariously sitting in the other](../images/coffeeneuring/2020/ride-5/bike.jpg)
+<figure>
+  <img
+    src="../images/coffeeneuring/2020/ride-5/bike.jpg"
+    alt="A black Surly Cross-Check with a klean kanteen in one bottle holder and a donut precariously sitting in the other"
+  />
+  <figcaption>
+    This time I did NOT attempt to ride with an unattached donut bag on my bike
+  </figcaption>
+</figure>
 
 ## The Ride
 
@@ -24,7 +32,13 @@ A very basic ride. I don't think I even technically left Mesa. I stayed on Exten
 
 On the way back I swung by a nice big basin park to drink my coffee and enjoy my donut.
 
-![A big basin in a park with the canal and some powerlines behind it](../images/coffeeneuring/2020/ride-5/basin.jpg)
+<figure>
+  <img
+    src="../images/coffeeneuring/2020/ride-5/basin.jpg"
+    alt="A big basin in a park with the canal and some powerlines behind it"
+  />
+  <figcaption>I love a good basin in a park</figcaption>
+</figure>
 
 The park was along the Western Canal which I hopped on for a short bit on the way home before hooking back up with Extension.
 
@@ -34,7 +48,16 @@ I brought my insulated Kleen Kanteen and camp mug and it turned out to be a grea
 
 The donut was a baked cinammon roll donut. It was cut in half and spread with cinammon glaze and topped with icing. And as you might've guessed, it tasted delicious when dipped in coffee.
 
-![A close up of a donut, titanium mug, and insulated kleen kanteen sitting on a picnic table](../images/coffeeneuring/2020/ride-5/donut-coffee.jpg)
+<figure>
+  <img
+    src="../images/coffeeneuring/2020/ride-5/donut-coffee.jpg"
+    alt="A close up of a donut, titanium mug, and insulated kleen kanteen sitting on a picnic table"
+  />
+  <figcaption>
+    It is never a mistake to bring a Kleen Kanteen. It provides the ability to
+    make to-go coffee really to-go on a bike.
+  </figcaption>
+</figure>
 
 ## One Good Thing
 

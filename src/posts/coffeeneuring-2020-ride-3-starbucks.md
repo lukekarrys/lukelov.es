@@ -40,7 +40,7 @@ My kids always come up with some good park games. We brought the soccer ball but
 <figure>
   <img
     src="../images/coffeeneuring/2020/ride-3/sleeping-tiger-1.jpg"
-    alt='One kid running toward another kid laying down in some grass with a fall at their feet'
+    alt="One kid running toward another kid laying down in some grass with a fall at their feet"
   />
   <figcaption>
     The "tiger" "sleeping" with the soccer ball while a kids runs towards them
@@ -50,7 +50,7 @@ My kids always come up with some good park games. We brought the soccer ball but
 <figure>
   <img
     src="../images/coffeeneuring/2020/ride-3/sleeping-tiger-2.jpg"
-    alt='One kid bending over to pick up the soccer ball from the feet of the other kid'
+    alt="One kid bending over to pick up the soccer ball from the feet of the other kid"
   />
   <figcaption>
     A kid "quietly" stealing the soccer ball from the "sleeping" "tiger"
@@ -60,7 +60,7 @@ My kids always come up with some good park games. We brought the soccer ball but
 <figure>
   <img
     src="../images/coffeeneuring/2020/ride-3/sleeping-tiger-3.jpg"
-    alt='One kid with the ball in their hands turning to run away from the other kid laying in the grass'
+    alt="One kid with the ball in their hands turning to run away from the other kid laying in the grass"
   />
   <figcaption>A kid turns to run away from the "sleeping" "tiger"</figcaption>
 </figure>
@@ -68,7 +68,7 @@ My kids always come up with some good park games. We brought the soccer ball but
 <figure>
   <img
     src="../images/coffeeneuring/2020/ride-3/sleeping-tiger-4.jpg"
-    alt='One kid laughing and holding the soccer ball while the other kid is on their knees getting up from the grass'
+    alt="One kid laughing and holding the soccer ball while the other kid is on their knees getting up from the grass"
   />
   <figcaption>The "tiger" is beginning to get up from sleeping</figcaption>
 </figure>
@@ -76,7 +76,7 @@ My kids always come up with some good park games. We brought the soccer ball but
 <figure>
   <img
     src="../images/coffeeneuring/2020/ride-3/sleeping-tiger-5.jpg"
-    alt='One kid laughing and running while holding the soccer ball as the other kid runs toward them'
+    alt="One kid laughing and running while holding the soccer ball as the other kid runs toward them"
   />
   <figcaption>
     A kid holding a soccer ball and laughing as the "tiger" sprints towards them
@@ -86,7 +86,7 @@ My kids always come up with some good park games. We brought the soccer ball but
 <figure>
   <img
     src="../images/coffeeneuring/2020/ride-3/sleeping-tiger-6.jpg"
-    alt='One kid is running out of frame of the picture as the other kid continues to run towards them'
+    alt="One kid is running out of frame of the picture as the other kid continues to run towards them"
   />
   <figcaption>
     The sprinting "tiger" gains ground on the kid running away with the soccer
