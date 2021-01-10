@@ -11,9 +11,9 @@ Lines from [Vegas Insider](http://www.vegasinsider.com/nfl/matchups/matchups.cfm
 
 ## Picks
 
-- BUFFALO -6.5 over Indianapolis
-- SEATTLE -3 over LA Rams
-- Washington +8.5 over TAMPA BAY
+- BUFFALO -6.5 over Indianapolis ❌
+- SEATTLE -3 over LA Rams ❌
+- Washington +8.5 over TAMPA BAY ✅
 - Baltimore -3 over TENNESSEE
 - NEW ORLEANS -10 over Chicago
 - Cleveland +6 over PITTSBURGH
