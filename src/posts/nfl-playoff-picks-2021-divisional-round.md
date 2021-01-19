@@ -11,10 +11,10 @@ Lines from [Vegas Insider](http://www.vegasinsider.com/nfl/matchups/matchups.cfm
 
 ## Picks
 
-- GREEN BAY -6.5 over LA Rams
-- BUFFALO -2.5 over Baltimore
-- Cleveland +10 over KANSAS CITY
-- NEW ORLEANS -3 over Tampa Bay
+- GREEN BAY -6.5 over LA Rams ✅
+- BUFFALO -2.5 over Baltimore ✅
+- Cleveland +10 over KANSAS CITY ✅
+- NEW ORLEANS -3 over Tampa Bay ❌
 
-**This week: x-x**
-**[Playoffs: 4-2](/tags/2020-nfl-playoffs)**
+**This week: 3-1**
+**[Playoffs: 7-3](/tags/2020-nfl-playoffs)**
