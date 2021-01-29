@@ -18,4 +18,5 @@ Lines from [Vegas Insider](http://www.vegasinsider.com/nfl/matchups/matchups.cfm
 - NEW ORLEANS -10 over Chicago ✅
 - Cleveland +6 over PITTSBURGH ✅
 
+**This week: 4-2**
 **[Playoffs: 4-2](/tags/2020-nfl-playoffs)**

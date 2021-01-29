@@ -5,12 +5,15 @@ import SEO from "../components/seo"
 const NotFoundPage = () => (
   <Layout>
     <SEO title="Now" />
-    <h1>Here's what I'm up to right now (updated 2020-12-06):</h1>
+    <h1>Here's what I'm up to right now (updated 2021-01-29):</h1>
     <p>
-      <a href="https://adventofcode.com">Advent of Code</a> – I tried AoC once
-      in 2017 and only completed Day 2 before bailing. This year I got on a roll
-      the first week and am realy enjoying myself. It feels fun in December 2020
-      to solve pointless puzzles.
+      I'm attempting to completely take apart a{" "}
+      <a href="https://www.instagram.com/stories/highlights/17870968583199212/">
+        fixed gear bicycle
+      </a>
+      , get it powder coated, and rebuild it with a mix of new and old parts.
+      I'm documenting it on Instagram stories and it's a slow process, but I'm
+      learning.
     </p>
     <p>
       <a href="https://lukekarrys.com">lukekarrys.com</a> – My previous personal
