@@ -7,13 +7,19 @@ const NotFoundPage = () => (
     <SEO title="Now" />
     <h1>Here's what I'm up to right now (updated 2021-01-29):</h1>
     <p>
-      I'm attempting to completely take apart a{" "}
       <a href="https://www.instagram.com/stories/highlights/17870968583199212/">
-        fixed gear bicycle
-      </a>
-      , get it powder coated, and rebuild it with a mix of new and old parts.
-      I'm documenting it on Instagram stories and it's a slow process, but I'm
+        Bike maintenance
+      </a>{" "}
+      – I'm attempting to completely take apart a fixed gear bicycle, get it
+      powder coated, and rebuild it with a mix of new and old parts. I'm
+      documenting it on Instagram stories and it's a slow process, but I'm
       learning.
+    </p>
+    <p>
+      <a href="https://lukeswickedcoolkit.herokuapp.com">My Wicked Coolkit</a> –
+      I spent the last couples months creting the Wicked Coolkit with some
+      friends at &yet and Heroku/Salesforce. I'm really happy with how it turned
+      out! <a href="https://wickedcoolkit,com">You can make your own too!</a>
     </p>
     <p>
       <a href="https://lukekarrys.com">lukekarrys.com</a> – My previous personal
