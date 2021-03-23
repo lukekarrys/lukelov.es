@@ -3,7 +3,7 @@ import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-export default ({ data: { markdownRemark: post } }) => {
+const Post = ({ data: { markdownRemark: post } }) => {
   return (
     <Layout>
       <SEO title={post.frontmatter.title} />
@@ -23,6 +23,8 @@ export default ({ data: { markdownRemark: post } }) => {
     </Layout>
   )
 }
+
+export default Post
 
 export const query = graphql`
   query($slug: String) {
