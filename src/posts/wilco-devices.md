@@ -30,3 +30,4 @@ tags:
 - Hummingbird <small>_(Synology)_</small>
 - Bull Black Nova <small>_(Bose Headphones)_</small>
 - On and On <small>_(iPad Pro 11")_</small>
+- tweedy <small>_Mac Mini M1_</small>
